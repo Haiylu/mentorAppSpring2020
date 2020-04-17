@@ -1,0 +1,11 @@
+<h1>this is the mentor page.</h1>
+<!--<ul> 
+    <li>temporary mentor A</li>
+    <li>temporary mentor B</li>
+</ul>
+-->
+<ul>
+    {% for mentor_item in all_items %}
+        <li>{{mentor_item.content}}</li>
+        {%endfor %}
+</ul>
