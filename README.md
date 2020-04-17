@@ -9,8 +9,8 @@ Use a user as a modle field to associate data with specific users
 Design mentor and mentee app
 
 Users can view current mentor profile
-Users can be able to filter (search) names of the mentors....
-Implement user authentication so that only logged in users can add info...Haiylu
+Users can be able to filter (search) names of the mentors
+Implement user authentication so that only logged in users can add info
 
 Technical requirements:
 
