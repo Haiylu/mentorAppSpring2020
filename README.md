@@ -1,5 +1,4 @@
 # mentorAppSpring2020
-More Specific Project details
 
 Goals:
 
